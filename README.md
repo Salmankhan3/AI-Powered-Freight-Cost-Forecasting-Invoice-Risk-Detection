@@ -237,7 +237,7 @@ Major Tables
 
 ![Invoice Risk Detection](Screenshots/Screenshot%20%28280%29.png)
 
-## Invoice Approved
+## Invoice Approval Table
 
 ![Invoice Approval](Screenshots/Screenshot%20%28281%29.png)
 ---
