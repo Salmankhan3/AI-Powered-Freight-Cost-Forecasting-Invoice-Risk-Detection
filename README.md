@@ -249,6 +249,8 @@ AI-Powered-Freight-Cost-Forecasting-Invoice-Risk-Detection
 │
 ├── Data
 │   ├── inventory2.db
+
+
 ├── Models
 │   ├── best_model.pkl
 │   ├── best_classifier.pkl
@@ -259,23 +261,34 @@ AI-Powered-Freight-Cost-Forecasting-Invoice-Risk-Detection
 │   ├── Freight_cost_prediction.ipynb
 │   ├── invoice_flaging.ipynb
 
+
 ├──freight_cost_prediction_system
 │   ├── data_preprocessing.py
 │   ├── model.py
 |   ├── train.py
 
+
 ├── Invoice_flaging
 │   ├── Data_reprocessing.py
 │   ├── Model_evaluation.py
 |   ├── Train.py
+
+
 ├── inference
 │   ├──predict_freight_cost.py
 │   ├──predict_invoice_flag.py
+
+
 └── myenve
+
 ├── Screenshots
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
 
 ```
