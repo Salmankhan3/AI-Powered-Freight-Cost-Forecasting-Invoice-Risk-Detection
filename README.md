@@ -269,11 +269,15 @@ AI-Powered-Freight-Cost-Forecasting-Invoice-Risk-Detection
 │   ├── Model_evaluation.py
 |   ├── Train.py
 ├── inference
+│   ├──predict_freight_cost.py
+│   ├──predict_invoice_flag.py
+└── myenve
 ├── Screenshots
 ├── app.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
 ```
 
 ---
