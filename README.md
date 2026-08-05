@@ -239,7 +239,7 @@ Major Tables
 
 ## Invoice Approved
 
-![Invoice Approved](Screenshots/Screenshot%20%28281%29.png)
+![Invoice Approval](Screenshots/Screenshot%20%28281%29.png)
 ---
 
 # 📁 Project Structure
