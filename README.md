@@ -220,7 +220,7 @@ Major Tables
 
 ## Home Page
 ![Home](Screenshots/%20%28282%29.png)
-![Home](Screenshots/Screenshot (281).png)
+![Home](Screenshots/Screenshot%20%28281%29.png)
 
 ## Freight Cost Prediction
 
