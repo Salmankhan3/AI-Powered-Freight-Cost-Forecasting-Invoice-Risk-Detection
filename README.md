@@ -219,7 +219,7 @@ Major Tables
 # Streamlit Application
 
 ## Home Page
-
+![Home](Screenshots/%20%28282%29.png)
 ![Home](Screenshots/Screenshot (281).png)
 
 ## Freight Cost Prediction
