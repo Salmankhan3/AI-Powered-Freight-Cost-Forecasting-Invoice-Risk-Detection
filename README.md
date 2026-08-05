@@ -224,26 +224,22 @@ Major Tables
 
 ## Freight Cost Prediction
 
-![Prediction](Screenshots/Screenshot (276).png)
+![Prediction](Screenshots/Screenshot%20%28276%29.png)
 ## Prediction Result
 
-![Result](Screenshots/Screenshot (278).png)
+![Prediction Result](Screenshots/Screenshot%20%28278%29.png)
 
 ## Prediction History
 
-![History](Screenshots/Screenshot (279).png)
+![Prediction History](Screenshots/Screenshot%20%28279%29.png)
 
 ## Invoice Risk Detection
 
-![Risk](Screenshots
-/Screenshot (280).png
-)
+![Invoice Risk Detection](Screenshots/Screenshot%20%28280%29.png)
 
 ## Invoice Approved
 
-![Approved](Screenshots
-/Screenshot (281).png)
-
+![Invoice Approved](Screenshots/Screenshot%20%28281%29.png)
 ---
 
 # 📁 Project Structure
