@@ -248,17 +248,28 @@ Major Tables
 AI-Powered-Freight-Cost-Forecasting-Invoice-Risk-Detection
 │
 ├── Data
-│   ├── inventory.csv
-│   └── ...
-│
+│   ├── inventory2.db
 ├── Models
-│   ├── freight_model.pkl
-│   ├── invoice_classifier.pkl
+│   ├── best_model.pkl
+│   ├── best_classifier.pkl
+|   ├── scalar.pkl
+
 │
 ├── Notebook
-│
-├── Images
-│
+│   ├── Freight_cost_prediction.ipynb
+│   ├── invoice_flaging.ipynb
+
+├──freight_cost_prediction_system
+│   ├── data_preprocessing.py
+│   ├── model.py
+|   ├── train.py
+
+├── Invoice_flaging
+│   ├── Data_reprocessing.py
+│   ├── Model_evaluation.py
+|   ├── Train.py
+├── inference
+├── Screenshots
 ├── app.py
 ├── requirements.txt
 ├── README.md
