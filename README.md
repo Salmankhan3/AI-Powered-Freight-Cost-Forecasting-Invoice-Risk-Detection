@@ -3,13 +3,9 @@
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)
-
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
-
 ![SQLite](https://img.shields.io/badge/SQLite-Database-blue)
-
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </p>
@@ -210,45 +206,43 @@ Regression Model                Classification Model
 
 The application uses **SQLite3** as its local relational database.
 
-Example tables include:
+Major Tables
 
 | Table |
 |---------|
-| Vendor Data |
-| Invoice Records |
-| Purchase Orders |
-| Freight Transactions |
-| Prediction History |
+| purchases |
+| purchase_prices |
+| vendor_invoice |
+| begin_inventory |
+| end_inventory |
 
 # Streamlit Application
 
 ## Home Page
 
-![Home](images/home.png)
+![Home](Screenshots/Screenshot (281).png)
 
 ## Freight Cost Prediction
 
-![Prediction](images/freight_prediction.png)
-
+![Prediction](Screenshots/Screenshot (276).png)
 ## Prediction Result
 
-![Result](images/freight_result.png)
+![Result](Screenshots/Screenshot (278).png)
 
 ## Prediction History
 
-![History](images/prediction_history.png)
+![History](Screenshots/Screenshot (279).png)
 
 ## Invoice Risk Detection
 
-![Risk](images/risk_prediction.png)
+![Risk](Screenshots
+/Screenshot (280).png
+)
 
 ## Invoice Approved
 
-![Approved](images/invoice_safe.png)
-
-## Manual Approval Required
-
-![Manual](images/manual_review.png)
+![Approved](Screenshots
+/Screenshot (281).png)
 
 ---
 
