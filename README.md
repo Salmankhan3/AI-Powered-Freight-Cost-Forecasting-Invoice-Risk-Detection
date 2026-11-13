@@ -1,4 +1,4 @@
-Freight Cost Forecasting and Invoice Risk Detection
+<b>Freight Cost Forecasting and Invoice Risk Detection</b>
 
 <p align="center">
 
