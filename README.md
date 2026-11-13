@@ -1,4 +1,4 @@
-# 🚚  Ai-Powered Freight Cost Forecasting and Invoice Risk Detection
+Freight Cost Forecasting and Invoice Risk Detection
 
 <p align="center">
 
